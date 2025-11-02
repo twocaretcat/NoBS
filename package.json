@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jerboa88/NoBS.git"
+    "url": "git+https://github.com/twocaretcat/NoBS.git"
   },
   "keywords": [
     "Node.js",
@@ -18,10 +18,10 @@
     "task",
     "runner"
   ],
-  "author": "John Goodliff (jerboa88)",
+  "author": "John Goodliff (https://johng.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jerboa88/NoBS/issues"
+    "url": "https://github.com/twocaretcat/NoBS/issues"
   },
-  "homepage": "https://github.com/jerboa88/NoBS"
+  "homepage": "https://github.com/twocaretcat/NoBS"
 }

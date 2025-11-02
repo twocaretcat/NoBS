@@ -1,13 +1,13 @@
 <!-- Project Header -->
-<div align="center"> 
+<div align="center">
   <h1 class="projectName">NoBS - Node Build Script</h1>
 
   <p class="projectBadges info">
     <img src="https://johng.io/badges/category/Library.svg" alt="Project category" title="Project category">
-    <img src="https://img.shields.io/github/languages/top/jerboa88/NoBS.svg" alt="Language" title="Language">
-    <img src="https://img.shields.io/github/repo-size/jerboa88/NoBS.svg" alt="Repository size" title="Repository size">
+    <img src="https://img.shields.io/github/languages/top/twocaretcat/NoBS.svg" alt="Language" title="Language">
+    <img src="https://img.shields.io/github/repo-size/twocaretcat/NoBS.svg" alt="Repository size" title="Repository size">
     <a href="LICENSE">
-      <img src="https://img.shields.io/github/license/jerboa88/NoBS.svg" alt="Project license" title="Project license"/>
+      <img src="https://img.shields.io/github/license/twocaretcat/NoBS.svg" alt="Project license" title="Project license"/>
     </a>
   </p>
   <p class="projectBadges status">
@@ -16,11 +16,11 @@
 	</a>
  	<img src="https://img.shields.io/badge/Experimental-%E2%9A%A0%EF%B8%8E-ca8a04.svg" alt="Experimental" title="Experimental"/>
   </p>
-  
+
   <p class="projectDesc">
     A dead simple build task runner for Node.js.
   </p>
-  
+
   <br/>
 </div>
 
@@ -37,7 +37,7 @@ Automate your build process by scheduling build tasks to be run either sequentia
 
 
 ## 📦 Installation
-Install with `npm install git+https://github.com/jerboa88/NoBS.git` for the latest version. The project is not on NPM at this time.
+Install with `npm install git+https://github.com/twocaretcat/NoBS.git` for the latest version. The project is not on NPM at this time.
 
 
 ## 🕹️ Usage
