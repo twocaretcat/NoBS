@@ -1,27 +1,51 @@
 {
-  "name": "nobs",
-  "version": "1.0.0",
-  "description": "A dead simple build task runner for Node.js",
-  "main": "index.js",
-  "scripts": {
-    "test": "node test.js"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/twocaretcat/NoBS.git"
-  },
-  "keywords": [
-    "Node.js",
-    "build",
-    "script",
-    "job",
-    "task",
-    "runner"
-  ],
-  "author": "John Goodliff (https://johng.io)",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/twocaretcat/NoBS/issues"
-  },
-  "homepage": "https://github.com/twocaretcat/NoBS"
+	"name": "nobs",
+	"version": "1.0.0",
+	"description": "A dead simple build task runner for Node.js",
+	"keywords": [
+		"build",
+		"build-automation",
+		"nodejs",
+		"task-runner",
+		"task-scheduler",
+		"grunt",
+		"gulp"
+	],
+	"homepage": "https://johng.io/p/no-bs",
+	"bugs": {
+		"url": "https://github.com/twocaretcat/NoBS/issues"
+	},
+	"license": "MIT",
+	"author": {
+		"name": "John Goodliff",
+		"url": "https://johng.io"
+	},
+	"funding": [
+		{
+			"type": "individual",
+			"url": "https://johng.io/funding"
+		},
+		{
+			"type": "GitHub Sponsors",
+			"url": "https://github.com/sponsors/twocaretcat"
+		},
+		{
+			"type": "Patreon",
+			"url": "https://patreon.com/twocaretcat"
+		},
+		{
+			"type": "Brave Creators",
+			"url": "https://publishers.basicattentiontoken.org/en/c/johng"
+		}
+	],
+	"private": true,
+	"type": "commonjs",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/twocaretcat/NoBS.git"
+	},
+	"scripts": {
+		"test": "node test.js"
+	}
 }
